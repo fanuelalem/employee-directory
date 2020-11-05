@@ -54,4 +54,4 @@ If you have any questions, please contact the project owner by clicking on the e
 
 # Screenshot
 
-![employee directory](./src/assets/images/employee_directory.jpg)
+![employee directory](./src/assets/images/employee-directory.png)
